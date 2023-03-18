@@ -10,4 +10,5 @@ int main()
 {
 	printf("welcome to embedded c");
       printf("Iam just trying git");
+printf("ktips");
 }
